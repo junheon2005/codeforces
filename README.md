@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [dp](#dp) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -27,7 +28,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/junheon2005/codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 | 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/junheon2005/codeforces/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/junheon2005/codeforces/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.cpp) |
 
 ---
 
